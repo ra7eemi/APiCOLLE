@@ -3493,7 +3493,7 @@ footer a:visited {
 
 .ss-go-top a {
   display: block;
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.623);
   text-decoration: none;
   margin: 0;
   padding: 0;
@@ -3502,7 +3502,7 @@ footer a:visited {
   width: 60px;
   line-height: 60px;
   text-align: center;
-  color: white;
+  color: rgb(0, 0, 0);
   text-transform: uppercase;
   transition: all .3s;
   background-repeat: no-repeat;
